@@ -195,14 +195,19 @@ The known measure types are:
 | id     | type          | description                                   |
 |--------|---------------|-----------------------------------------------|
 | 1      | Temperature   | Tempeature value. Value is multiplied by 0.1  |
-| 2      | Unknown2      |                                               |
-| 3      | Unknown3      |                                               |
+| 2      | Watt/m²       |                                               |
+| 3      | l/h           |                                               |
 | 4      | Seconds       |                                               |
-| 5...9  | Unknown5..9   |                                               |
+| 5      | Minutes       |                                               |
+| 6      | l/Imp         |                                               |
+| 7      | K             |                                               |
+| 8      | %             |                                               |
+| 9      | :             |                                               |
 | 10     | Kilowatt      |                                               |
 | 11     | Kilowatthours |                                               |
 | 12     | Megawatthours |                                               |
-| 13..21 | Unknown       |                                               |
+| 13     | Volts         |                                               |
+| 14..21 | Unknown       |                                               |
 
 ## Full Example
 
